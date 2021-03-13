@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<stedentcontract>
+  <student studentid="1">
+    <name>郭子杨</name>
+    <sex>男</sex>
+    <age>19</age>
+    <birthdate>1998-10-29</birthdate>
+    <phone>17851145186</phone>
+    <homeaddress>江苏连云港</homeaddress>
+    <email>492895227@qq.com</email>
+    <profession>计算机科学与技术</profession>
+  </student>
+</stedentcontract>
